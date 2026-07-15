@@ -6,8 +6,6 @@ color 4
 tree
 dir/s
 cd C:\Users\{COMPUTER_USERNAME}\INDEX-main
-mkdir Windowscopyfile
-xcopy C:\Windows Windowscopyfile\ /E /H /C /I /Y
-echo Kopyalama tamamlandi.
+echo Dosya aktarma tamamlandi.
 pause
  
